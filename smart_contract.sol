@@ -4,6 +4,7 @@ pragma solidity ^0.5.1;
 //pragma solidity >=0.7.0 <0.9.0;
 
 contract MyContract {
+    // create a mapping function to track the token balances
     mapping(address => uint256) public balances;
     
     // define a wallet object
