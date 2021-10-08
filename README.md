@@ -5,7 +5,7 @@ Two case of smart contract implementation for testing purpose, and fully working
 _smart_contract.sol_ is a strightforward approach with just a token "ping" transaction (+1 each ping).<br>
 _marketplace.sol_ dive into the logics of buyer, seller, price and available funds.
 
-Since it's the first smart contract I ever created, I took a non-trivial journey scratching at least the surface of how Solidity works, based on <a href="https://docs.soliditylang.org/en/v0.8.9/contracts.html">Solidity Documentation</a>, <a href="https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA">Microsoft's Reactor (Meg Lewis!)</a> and <a href="https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ">YT's DAPP University</a>.
+Since it's the first smart contract I ever created, I took a non-trivial journey scratching at least the surface of how Solidity works, based on <a href="https://docs.soliditylang.org/en/v0.8.9/contracts.html">Solidity Documentation</a>, <a href="https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA">Microsoft's Reactor (by Meg Lewis!)</a> and <a href="https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ">YT's DAPP University</a>.
 
 You can see the commented line-by-line code of those researchs in my MISC repo: <a href="https://github.com/carloocchiena/code_chunks/tree/master/solidity" target="_blank">carloocchiena/code_chunks/solidity</a>.<br> 
 There I digged about the logic of time activation of smart contracts and the logic of ownership, but being not needed there, I skipped the implementation in this specific smart contracts.
