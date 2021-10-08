@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: MIT-Modern-Variant
 
 pragma solidity ^0.5.1;
 //pragma solidity >=0.7.0 <0.9.0;
@@ -19,12 +19,13 @@ contract MyContract {
         wallet = _wallet;
     }
 
-     // create a function to purchase token
+     // create a fall-back function to purchase token
+     // note: Fallback functions are executed whenever a particular contract receives plain Ether without any other data associated with the transaction.
     function() external payable {
         buyToken();
     }
 
-    // final scope of our smart contract is here
+    // final scope of our smart contract 
     // increase balance and emit a purchase msg
     function buyToken() public payable {
         balances[msg.sender]++;
