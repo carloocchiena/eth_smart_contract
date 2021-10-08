@@ -2,7 +2,7 @@
 
 Two case of smart contract implementation for testing purpose, and fully working on <a href="https://remix.ethereum.org/">Remix.ethereum.org</a> allowing to send token to a wallet address.
 
-_smart_contract.sol_ is a strightforward approach with just a token "ping" transaction (1 ping, 1 token).<br>
+_smart_contract.sol_ is a strightforward approach with just a token "ping" transaction (+1 ping, +1 token).<br>
 _marketplace.sol_ dive into the logics of buyer, seller, price and available funds.
 
 Since it's the first smart contract I ever created, I took a non-trivial journey scratching at least the surface of how Solidity works, based on <a href="https://docs.soliditylang.org/en/v0.8.9/contracts.html">Solidity Documentation</a>, <a href="https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA">Microsoft's Reactor (by Meg Lewis!)</a> and <a href="https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ">YT's DAPP University</a>.
