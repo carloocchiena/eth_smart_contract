@@ -11,7 +11,7 @@ Proof of the works done by the smart contract:
 
 ![image](https://user-images.githubusercontent.com/57464184/136544773-cd1c2e06-1dbf-4f23-85c8-7d7894e45da5.png)
 
-after 10 token transacted
+Wallet balance after 10 token transacted:
 
 ![image](https://user-images.githubusercontent.com/57464184/136547399-c3f5e573-9940-4b3e-a51c-4bf2c1d0bf2f.png)
 
