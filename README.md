@@ -1,6 +1,6 @@
 # eth_smart_contract
 
-Two case of smart contract implementation for testing purpose, and fully working on <a href="https://remix.ethereum.org/">Remix.ethereum.org</a> allowing to send token to a wallet address.
+Two case of smart contract implementation for studying\testing purpose, and fully working on <a href="https://remix.ethereum.org/">Remix.ethereum.org</a>.
 
 _smart_contract.sol_ is a strightforward approach with just a token "ping" transaction (+1 ping, +1 token).<br>
 _marketplace.sol_ dive into the logics of buyer, seller, price and available funds.
