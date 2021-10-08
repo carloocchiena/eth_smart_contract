@@ -15,3 +15,6 @@ Wallet balance after 10 token transacted:
 
 ![image](https://user-images.githubusercontent.com/57464184/136547399-c3f5e573-9940-4b3e-a51c-4bf2c1d0bf2f.png)
 
+![image](https://user-images.githubusercontent.com/57464184/136554927-cc5b3d4b-1e0a-4c90-b7a8-e69caffe2c31.png)
+
+
