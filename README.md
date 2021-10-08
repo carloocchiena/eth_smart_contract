@@ -4,7 +4,8 @@ A straightforward smart contract implemented for testing purpose, and fully work
 
 Since it's the first smart contract I ever created, I took a non-trivial journey scratching at least the surface of how Solidity works, based on <a href="https://docs.soliditylang.org/en/v0.8.9/contracts.html">Solidity Documentation</a>.
 
-You can see the commented line-by-line code of those researchs in my MISC repo: <a href="https://github.com/carloocchiena/code_chunks/tree/master/solidity" target="_blank">carloocchiena/code_chunks/solidity</a>. There I digged about the logic of time activation of smart contracts and the isOwner logic, but being not needed there, I skipped.  
+You can see the commented line-by-line code of those researchs in my MISC repo: <a href="https://github.com/carloocchiena/code_chunks/tree/master/solidity" target="_blank">carloocchiena/code_chunks/solidity</a>.<br> 
+There I digged about the logic of time activation of smart contracts and the logic of ownership, but being not needed there, I skipped the implementation in this specific smart contract.
 
 Proof of the works done by the smart contract:  
 
