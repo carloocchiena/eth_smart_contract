@@ -1,6 +1,8 @@
 # eth_smart_contract
 
-A straightforward smart contract implementation for testing purpose, and fully working on <a href="https://remix.ethereum.org/">Remix.ethereum.org</a> allowing to send token to a wallet address.
+Two case of smart contract implementation for testing purpose, and fully working on <a href="https://remix.ethereum.org/">Remix.ethereum.org</a> allowing to send token to a wallet address.
+
+smart_contract is 
 
 Since it's the first smart contract I ever created, I took a non-trivial journey scratching at least the surface of how Solidity works, based on <a href="https://docs.soliditylang.org/en/v0.8.9/contracts.html">Solidity Documentation</a>.
 
