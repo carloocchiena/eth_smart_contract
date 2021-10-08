@@ -16,7 +16,7 @@ Proof of the works done by smart_contract.sol:
 
 Proof of the work done by marketplace.sol:
 
-![image](https://user-images.githubusercontent.com/57464184/136583658-b74a11e1-a3be-443b-b96e-f795da6b67ae.png)![image](https://user-images.githubusercontent.com/57464184/136554927-cc5b3d4b-1e0a-4c90-b7a8-e69caffe2c31.png)
+![image](https://user-images.githubusercontent.com/57464184/136583658-b74a11e1-a3be-443b-b96e-f795da6b67ae.png) ![image](https://user-images.githubusercontent.com/57464184/136554927-cc5b3d4b-1e0a-4c90-b7a8-e69caffe2c31.png)
 
 
 
