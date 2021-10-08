@@ -1,6 +1,6 @@
 # eth_smart_contract
 
-A straight-forward smart contract implemented for testing purpose, and fully working on remix.ide allowing to send token to a wallet address.
+A straightforward smart contract implemented for testing purpose, and fully working on remix.ide allowing to send token to a wallet address.
 
 Since it's the first smart contract I ever created, I took a non-trivial journey scratching at least the surface of how Solidity works, based on <a href="https://docs.soliditylang.org/en/v0.8.9/contracts.html">Solidity Documentation</a>.
 
